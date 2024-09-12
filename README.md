@@ -32,7 +32,7 @@ This project scrapes public data on government job positions from the SSCASN por
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/Scraping-SSCASN.git
+   git clone https://github.com/ms3welz/Scraping-SSCASN.git
    cd Scraping-SSCASN
    ```
 

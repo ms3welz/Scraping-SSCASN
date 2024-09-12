@@ -71,7 +71,7 @@ def process_and_write_data(sheet, data):
 
 def main():
     kode_pendidikan = '5101087' # S1-Teknik Informatika (5101087)
-    kode_pengadaan = '2'
+    kode_pengadaan = '2' # Pengadaan CPNS kodenya 2
 
     workbook, sheet = create_excel_workbook()
 

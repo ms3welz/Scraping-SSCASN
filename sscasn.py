@@ -70,7 +70,7 @@ def process_and_write_data(sheet, data):
         print("No data to process")
 
 def main():
-    kode_pendidikan = '5101087' # S1-Teknik Informatika
+    kode_pendidikan = '5101087' # S1-Teknik Informatika (5101087)
     kode_pengadaan = '2'
 
     workbook, sheet = create_excel_workbook()
